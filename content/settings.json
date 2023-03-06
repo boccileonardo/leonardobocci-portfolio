@@ -1,29 +1,26 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
+    "siteUrl": "https://leonardobocci.netlify.app/",
+    "title": "Leo Bocci",
     "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
-    "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "description": "Leo Bocci's personal portfolio site",
+    "author": "Leo Bocci",
+    "avatar": "../content/images/avatar.png",
+    "bio": "I'm passionate about data, cloud, AI, motorsport, cycling and games.",
     "social": {
-      "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
-      "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "github": "https://github.com/leonardobocci",
+      "medium": "https://medium.com/@leonardobocci",
+      "linkedin": "https://www.linkedin.com/in/leonardobocci/",
+      "mail": "mailto:leonardobocci99@hotmail.com"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "Leo Bocci" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Projects", "url": "/blog" }
       ],
       "ctaButton": {
         "openNewTab": true,
@@ -31,12 +28,11 @@
         "url": "/resume.pdf"
       },
       "footer": [
-        { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
+        { "label": "Privacy", "url": "/privacy" }
       ]
     },
     "featureToggles": {
-      "useDarkModeAsDefault": false,
+      "useDarkModeAsDefault": true,
       "useDarkModeBasedOnUsersPreference": true,
       "useCookieBar": false
     }
