@@ -20,10 +20,10 @@
   "author": "Konstantin Münster <mail@konstantin.digital>",
   "license": "0BSD",
   "starter-name": "gatsby-starter-portfolio-minimal-theme",
-  "homepage": "https://github.com/leonardobocci/leonardobocci-portfolio",
+  "homepage": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/leonardobocci/leonardobocci-portfolio.git"
+    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme.git"
   },
   "bugs": {
     "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme/issues"
