@@ -1,9 +1,9 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://leonardobocci.netlify.app/",
+    "siteUrl": "https://leonardobocci.gatsbyjs.io/",
     "title": "Leo Bocci",
-    "titleTemplate": "%s · Portfolio Minimal",
+    "titleTemplate": "%s · Portfolio",
     "description": "Leo Bocci's personal portfolio site",
     "author": "Leo Bocci",
     "avatar": "../content/images/avatar.png",
