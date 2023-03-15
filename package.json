@@ -9,13 +9,13 @@
     "serve": "gatsby serve"
   },
   "engines": {
-    "node": "18.x"
+    "node": "latest"
   },
   "dependencies": {
-    "gatsby": "^5.7.0",
+    "gatsby": "latest",
     "gatsby-theme-portfolio-minimal": "latest",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react": "latest",
+    "react-dom": "latest"
   },
   "author": "Konstantin Münster <mail@konstantin.digital>",
   "license": "0BSD",
