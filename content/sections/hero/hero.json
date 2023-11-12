@@ -10,11 +10,11 @@
   },
   "title": "I'm Leo",
   "subtitle": {
-    "prefix": "I find insights from ",
+    "prefix": "I can work with your ",
     "highlight": "data",
     "suffix": "."
   },
-  "description": "See my data science and finance projects",
+  "description": "See my data science and data engineering projects",
   "socialProfiles": {
     "from": ["LinkedIn", "Github", "Mail"],
     "showIcons": true
