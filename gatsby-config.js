@@ -3,11 +3,11 @@ module.exports = {
     {
       resolve: "gatsby-theme-portfolio-minimal",
       options: {
-        siteUrl: "https://leonardobocci.gatsbyjs.io/", // Used for sitemap generation
+        siteUrl: "https://leobocci.pages.dev/", // Used for sitemap generation
         manifestSettings: {
           favicon: "./content/images/favicon.png", // Path is relative to the root
-          siteName: "My Minimal Portfolio", // Used in manifest.json
-          shortName: "Portfolio", // Used in manifest.json
+          siteName: "Leo Bocci Data Portfolio", // Used in manifest.json
+          shortName: "Leo Bocci", // Used in manifest.json
           startUrl: "/", // Used in manifest.json
           backgroundColor: "#FFFFFF", // Used in manifest.json
           themeColor: "#000000", // Used in manifest.json
@@ -29,5 +29,6 @@ module.exports = {
         // }
       },
     },
+  "react-slick",
   ],
 };

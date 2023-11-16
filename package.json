@@ -15,7 +15,9 @@
     "gatsby": "latest",
     "gatsby-theme-portfolio-minimal": "latest",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "react-slick": "^0.29.0",
+    "slick-carousel": "^1.8.1"
   },
   "author": "Leonardo Bocci",
   "license": "0BSD",
@@ -33,8 +35,9 @@
     "bocci",
     "leonardo bocci",
     "data science",
-    "portfolio",
+    "data engineering",
     "data",
+    "portfolio",
     "cloud"
   ]
 }
