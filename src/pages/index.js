@@ -35,11 +35,11 @@ export default function IndexPage() {
       <Seo title="Leo Bocci" />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
+        <ProjectsSection sectionId="projects" heading="Featured Project" />
         <AboutSection sectionId="about" heading="About Me" />
         <h2 style={{ textAlign: 'center', marginTop: '2em' }}>Certifications</h2>
         <CertificationsCarousel certifications={certifications} />
         <InterestsSection sectionId="interests" heading="Interests" />
-        <ProjectsSection sectionId="projects" heading="Featured Projects" />
       </Page>
     </>
   );

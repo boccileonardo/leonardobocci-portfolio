@@ -7,7 +7,7 @@
       "description": "ML algorithms applied to forecast market returns using technical indicators.",
       "tags": ["AI", "Machine Leaning", "Stock Market"],
       "image": {
-        "src": "../../images/market-forecast.jpg",
+        "src": "../../images/market-forecasting-ml/market-forecast.jpg",
         "alt": "market forecast image",
         "linkTo": "https://leobocci.pages.dev/market-forecast-ml"
       },

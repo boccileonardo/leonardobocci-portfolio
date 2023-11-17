@@ -1,9 +1,9 @@
 ---
-title: "Stock market forecasting with Machine Learning"
+title: "ML Stock market forecasting"
 description: "I applied several technical indicators to the stock market, using machine learning algorithms"
 date: "2023-06-30"
 banner:
-  src: "../../images/market-forecast.jpg"
+  src: "../../images/market-forecasting-ml/market-forecast.jpg"
   alt: "market forecasting"
   caption: 'Source: <u><a href="https://freepik.com">Freepik</a></u>'
 categories:

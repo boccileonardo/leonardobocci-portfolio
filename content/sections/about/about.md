@@ -7,8 +7,8 @@ Hi, I'm Leo!
 
 I'm an Italian expat, currently in Warsaw. 
 
-My interests in data science and data engineering have brought me to my current position in data & analytics at Procter and Gamble, working in the POS sales data pipeline. 
+My interests in data science and data engineering have brought me to my current role at Procter and Gamble, working in the POS sales data pipeline. 
 
-I've graduated in Finance at Kozminski University, with a thesis on machine learning algorithms applied to the stock market. I'm also an active member of the Kozminski AI student club. 
+I've graduated with honours at Kozminski University, with a thesis on machine learning algorithms applied to the stock market.
 
 I love motorsport, cycling and travelling. 

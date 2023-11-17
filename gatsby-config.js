@@ -16,12 +16,8 @@ module.exports = {
         contentDirectory: "./content",
         blogSettings: {
           path: "/blog", // Defines the slug for the blog listing page
-          usePathPrefixForArticles: true, // Default true (i.e. path will be /blog/first-article)
+          usePathPrefixForArticles: false, // Default true (i.e. path will be /blog/first-article)
         },
-        blogSettings: {
-          path: '/blog',
-          usePathPrefixForArticles: false,
-        }
         // googleAnalytics: {
         //     trackingId: "UA-XXXXXX-X",
         //     anonymize: true, // Default true
