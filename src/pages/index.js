@@ -22,7 +22,7 @@ import lakehouseFundamentals from "../../content/images/certs/lakehouseFundament
 const certifications = [
     // ADD CERTIFICATIONS HERE WHEN ACQUIRED, ALSO ADD IMAGE ABOVE
      { title: 'Azure Data Fundamentals', image: azureDataFundamentals, date: 'November 2023', link: 'https://learn.microsoft.com/en-us/users/leonardobocci-5506/credentials/2f8cbf5cba1fda61'},
-     { title: 'Databricks Lakehouse', image: lakehouseFundamentals, date: 'September 2023', link: '../../static/lakehouseFundamentals.pdf'},
+     { title: 'Databricks Lakehouse', image: lakehouseFundamentals, date: 'September 2023', link: '/lakehouseFundamentals.pdf'},
      { title: 'Azure Fundamentals', image: azureFundamentals, date: 'January 2023', link: 'https://learn.microsoft.com/api/credentials/share/en-us/LeonardoBocci-5506/B83D7D90AD724399?sharingId=DAFD346806A277E6'},
      { title: 'GCP Data to Insights', image: gcpDataInsights, date: 'March 2022', link: 'https://www.coursera.org/account/accomplishments/specialization/4H8CRJS6RE86'},
      { title: 'GCP BigQuery', image: gcpBigQuery, date: 'December 2021', link: 'https://coursera.org/verify/DJJZK5VVECTZ'},

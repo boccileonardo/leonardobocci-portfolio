@@ -15,6 +15,7 @@ const CertificationsCarousel = ({ certifications }) => {
     autoplay: true,
     autoplaySpeed: 2300,
     arrows: false,
+    pauseOnHover: false,
     responsive: [
       {
         breakpoint: 768, // Adjust this value based on your design needs
