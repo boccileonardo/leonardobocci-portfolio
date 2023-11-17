@@ -1,7 +1,8 @@
+//index.js
+
 import React from "react";
 import {
   AboutSection,
-  ContactSection,
   HeroSection,
   InterestsSection,
   Page,

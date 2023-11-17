@@ -21,7 +21,7 @@ const CertificationsCarousel = ({ certifications }) => {
   return (
     <div className="carousel-wrapper" style={{position: 'relative', marginLeft: '10%', marginRight: '10%',  paddingBottom: '100px'}}>
       <Slider {...settings}>
-        {certifications.map((certification, index) => (
+        {certifications && certifications.map((certification, index) => (
           <div key={index} style={{ textAlign: 'center', alignItems: 'center'}}>
           <h3 style={{ textAlign: 'center' }}>{certification.title}</h3>
           {certification.image && <img src={certification.image} alt={certification.title} style={{ maxHeight: '150px', width: 'auto', alignSelf: 'center', margin: '0 auto', borderRadius: '50%'}} />}
