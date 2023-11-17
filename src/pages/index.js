@@ -37,7 +37,7 @@ export default function IndexPage() {
         <HeroSection sectionId="hero" />
         <ProjectsSection sectionId="projects" heading="Featured Project" />
         <AboutSection sectionId="about" heading="About Me" />
-        <h2 style={{ textAlign: 'center', marginTop: '2em' }}>Certifications</h2>
+        <h2 id="certificates" style={{ textAlign: 'center', marginTop: '2em' }}>Certifications</h2>
         <CertificationsCarousel certifications={certifications} />
         <InterestsSection sectionId="interests" heading="Interests" />
       </Page>

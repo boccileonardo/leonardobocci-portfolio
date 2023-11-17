@@ -18,8 +18,9 @@
     "logo": { "text": "Leo Bocci" },
     "navigation": {
       "header": [
+        { "label": "Projects", "url": "/blog" },
         { "label": "About", "url": "/#about" },
-        { "label": "Projects", "url": "/blog" }
+        { "label": "Certificates", "url": "/#certificates" }  
       ],
       "ctaButton": {
         "openNewTab": true,
