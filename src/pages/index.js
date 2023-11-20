@@ -18,9 +18,11 @@ import gcpDataInsights from "../../content/images/certs/gcpDataInsights.png";
 import gcpBigQuery from "../../content/images/certs/gcpBigQuery.png";
 import pgPowerBi from "../../content/images/certs/pgPowerBi.png";
 import lakehouseFundamentals from "../../content/images/certs/lakehouseFundamentals.png";
+import dagsterEssentials from "../../content/images/certs/dagsterEssentials.png";
 
 const certifications = [
     // ADD CERTIFICATIONS HERE WHEN ACQUIRED, ALSO ADD IMAGE ABOVE
+     { title: 'Dagster Essentials', image: dagsterEssentials, date: 'November 2023', link: 'https://courses.dagster.io/certificates/5gick1z9ja'},
      { title: 'Azure Data Fundamentals', image: azureDataFundamentals, date: 'November 2023', link: 'https://learn.microsoft.com/en-us/users/leonardobocci-5506/credentials/2f8cbf5cba1fda61'},
      { title: 'Databricks Lakehouse', image: lakehouseFundamentals, date: 'September 2023', link: '/lakehouseFundamentals.pdf'},
      { title: 'Azure Fundamentals', image: azureFundamentals, date: 'January 2023', link: 'https://learn.microsoft.com/api/credentials/share/en-us/LeonardoBocci-5506/B83D7D90AD724399?sharingId=DAFD346806A277E6'},
