@@ -37,7 +37,7 @@ export default function IndexPage() {
       <Seo title="Leo Bocci" />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
-        <ProjectsSection sectionId="projects" heading="Featured Project" />
+        <ProjectsSection sectionId="projects" heading="Featured Projects" />
         <AboutSection sectionId="about" heading="About Me" />
         <h2 id="certificates" style={{ textAlign: 'center', marginTop: '2em' }}>Certifications</h2>
         <CertificationsCarousel certifications={certifications} />

@@ -21,6 +21,28 @@
           "url": "/market-forecast-ml/"
         }
       ]
+    },
+    {
+      "visible": true,
+      "category": "Web-Dev",
+      "title": "Neurological Disease Hackathon",
+      "description": "React web app with Python/FastApi/Postgres backend for neurological disease diagnosis, build in the P&G CEIT Hackathon for Warsaw Medical University.",
+      "tags": ["React", "Python", "FastApi", "Fullstack"],
+      "image": {
+        "src": "../../images/pg-wum-hackathon/big-hackathon-banner.png",
+        "alt": "hackathon image",
+        "linkTo": "https://leobocci.pages.dev/pg-wum-hackathon"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/Ahmed-Haitham/CE-IT-Hub-Hackathon-2024"
+        },
+        {
+          "type": "external",
+          "url": "/pg-wum-hackathon/"
+        }
+      ]
     }
   ],
   "button": {

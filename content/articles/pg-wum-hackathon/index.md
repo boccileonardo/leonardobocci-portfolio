@@ -3,7 +3,7 @@ title: "P&G Hackathon for WUM"
 description: "I participated in the P&G Hackathon, building a web app for the Warsaw Medical University"
 date: "2024-03-20"
 banner:
-  src: "../../images/pg-wum-hackathon/hackathon-banner.png"
+  src: "../../images/pg-wum-hackathon/big-hackathon-banner.png"
   alt: "hackathon pg for wum"
   caption: 'Source: <u><a href="https://www.pgcareers.com/eu/en/ceit">P&G CEIT</a></u>'
 categories:
