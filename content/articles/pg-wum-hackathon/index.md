@@ -7,14 +7,14 @@ banner:
   alt: "hackathon pg for wum"
   caption: 'Source: <u><a href="https://www.pgcareers.com/eu/en/ceit">P&G CEIT</a></u>'
 categories:
-  - "Web-Dev"
   - "Python"
-  - "Fastapi"
   - "React"
 keywords:
-  - "AI"
-  - "Machine Learning"
-  - "Stock Market"
+  - "Python"
+  - "React"
+  - "Web Dev"
+  - "Fullstack"
+  - "FastAPI"
 ---
 
 ## Neurological disease prediction web app

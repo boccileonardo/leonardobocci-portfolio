@@ -7,13 +7,13 @@ banner:
   alt: "market forecasting"
   caption: 'Source: <u><a href="https://freepik.com">Freepik</a></u>'
 categories:
-  - "AI"
-  - "Machine Learning"
-  - "Stock Market"
+  - "AI/ML"
+  - "Python"
 keywords:
   - "AI"
   - "Machine Learning"
   - "Stock Market"
+  - "Python"
 ---
 
 ## Comparison of machine learning methods for stock market forecasting

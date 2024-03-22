@@ -5,7 +5,7 @@
       "category": "AI & ML",
       "title": "Forecasting stock market returns",
       "description": "ML algorithms applied to forecast market returns using technical indicators.",
-      "tags": ["AI", "Machine Leaning", "Stock Market"],
+      "tags": ["AI/ML", "Python", "Stock Market"],
       "image": {
         "src": "../../images/market-forecasting-ml/market-forecast.jpg",
         "alt": "market forecast image",
@@ -27,7 +27,7 @@
       "category": "Web-Dev",
       "title": "Neurological Disease Hackathon",
       "description": "React web app with Python/FastApi/Postgres backend for neurological disease diagnosis, build in the P&G CEIT Hackathon for Warsaw Medical University.",
-      "tags": ["React", "Python", "FastApi", "Fullstack"],
+      "tags": ["React", "Python", "FastApi", "Fullstack Web-Dev"],
       "image": {
         "src": "../../images/pg-wum-hackathon/big-hackathon-banner.png",
         "alt": "hackathon image",

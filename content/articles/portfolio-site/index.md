@@ -7,7 +7,6 @@ banner:
   alt: "maintenance"
   caption: 'Source: <u><a href="https://freepik.com">Freepik</a></u>'
 categories:
-  - "Web-dev"
   - "Gatsby"
   - "React"
 keywords:
