@@ -34,6 +34,7 @@ const certifications = [
 export default function IndexPage() {
   return (
     <>
+      <head><meta name="google-site-verification" content="6U00pi-RaSITUQC4FSUuFTbe4M-VZ3E-StQZpKAVz2E" /></head>
       <Seo title="Leo Bocci" />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
