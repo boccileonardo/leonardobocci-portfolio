@@ -97,7 +97,7 @@ class OneBigTable(Base):
 
 3. **GenAi is good at front-end development**
 As we didn't have a front-end developer in our team, we had to improvise. \
-Learning to building a React web-app from scratch in a weekend was challenging, but really fun. \
+Learning to build a React web-app from scratch in a weekend was challenging, but really fun. \
 With some help from Github copilot, we are very happy with our final result, considering our lack of experience. \
 Our app works as follows: \
 First, you select your symptoms through the searchable dropdown with media support on hover: \
