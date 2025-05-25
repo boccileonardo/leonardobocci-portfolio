@@ -20,7 +20,7 @@ keywords:
 
 This blog article is a project shocase for my master thesis, which was used to obtain my MSc degree in Kozminski University in 2023. 
 
-You may find the full thesis linked in [this presentation](https://docs.google.com/presentation/d/1ULCPUsf9MZPESIKjZWv-PkV0mSz68Ghv/edit?usp=drive_link&ouid=105147433723649475874&rtpof=true&sd=true), and the GitHub repository is available [here](https://github.com/leonardobocci/ml-stock-market).
+You may find the full thesis linked in [this presentation](https://docs.google.com/presentation/d/1ULCPUsf9MZPESIKjZWv-PkV0mSz68Ghv/edit?usp=drive_link&ouid=105147433723649475874&rtpof=true&sd=true), and the GitHub repository is available [here](https://github.com/boccileonardo/ml-stock-market).
 
 The study is conducted under the framework of the adaptive markets hypothesis, and uses technical indicators to forecast daily return data. The same preprocessing pipeline is applied to all algorithms, with a slightly different cross-validation approach used for deep learning methods.
 

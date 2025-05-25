@@ -14,7 +14,7 @@
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/leonardobocci/ml-stock-market"
+          "url": "https://github.com/boccileonardo/ml-stock-market"
         },
         {
           "type": "external",
@@ -48,6 +48,6 @@
   "button": {
     "visible": false,
     "label": "Visit on Github",
-    "url": "https://github.com/leonardobocci"
+    "url": "https://github.com/boccileonardo"
   }
 }

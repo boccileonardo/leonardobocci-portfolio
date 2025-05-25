@@ -22,15 +22,17 @@
   "author": "Leonardo Bocci",
   "license": "0BSD",
   "starter-name": "Leo Bocci",
-  "homepage": "https://github.com/leonardobocci/leonardobocci-portfolio",
+  "homepage": "https://github.com/boccileonardo/leonardobocci-portfolio",
   "repository": {
     "type": "git",
-    "url": "https://github.com/leonardobocci/leonardobocci-portfolio.git"
+    "url": "https://github.com/boccileonardo/leonardobocci-portfolio.git"
   },
   "bugs": {
-    "url": "https://github.com/leonardobocci/leonardobocci-portfolio/issues"
+    "url": "https://github.com/boccileonardo/leonardobocci-portfolio/issues"
   },
   "keywords": [
+    "boccileonardo",
+    "leobocci",
     "leonardo",
     "bocci",
     "leonardo bocci",

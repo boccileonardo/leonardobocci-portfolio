@@ -22,6 +22,6 @@ keywords:
 
 ## Modern Data Platform on GCP
 
-[Github repo](https://github.com/leonardobocci/f1toolbox) with Dagster assets, Dbt transformations on BigQuery, Api scripts, Airbyte API.
+[Github repo](https://github.com/boccileonardo/f1toolbox) with Dagster assets, Dbt transformations on BigQuery, Api scripts, Airbyte API.
 
-[Github infrastructure repo](https://github.com/leonardobocci/f1toolbox) for terraform deployment.
+[Github infrastructure repo](https://github.com/boccileonardo/f1toolbox) for terraform deployment.
