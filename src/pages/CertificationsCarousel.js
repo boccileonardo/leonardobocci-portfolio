@@ -9,13 +9,13 @@ const CertificationsCarousel = ({ certifications }) => {
   const settings = {
     dots: false,
     infinite: true,
-    speed: 800,
+    speed: 600,
     slidesToShow: 3,
     slidesToScroll: 1,
     autoplay: true,
     autoplaySpeed: 2300,
     arrows: false,
-    pauseOnHover: false,
+    pauseOnHover: true,
     responsive: [
       {
         breakpoint: 768, // Adjust this value based on your design needs
